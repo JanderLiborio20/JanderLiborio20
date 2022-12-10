@@ -3,7 +3,7 @@
   <h2>Hi, I'm Jander Liborio!</h2>
 
   <p align="center">
-   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+   <img  width="600" height="400" src="https://github.com/demartini/demartini/blob/master/code.gif">
   </p>
     
    <div align="center">
