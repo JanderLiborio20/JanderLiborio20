@@ -17,14 +17,6 @@
   <div style="display: inline_block">
     <img alt="Libory-Js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
     <img alt="Libory-Ts" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-    <img alt="Libory-React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img alt="Libory-angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    <img alt="Libory-Query" width="40" height="40" src="https://github.com/nikolaslopes/nikolaslopes/blob/main/React%20Query%20Emblem.svg" />
-    <img alt="Libory-Sass" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
-    <img alt="Libory-Nodejs" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-    <img alt="Libory-Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-    <img alt="Libory-GitLab" width="40" height="40" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />  
-    <img alt="Libory-Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
     <img alt="Libory-mysql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img alt="Libory-nest" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
     <img alt="Libory-nest" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
